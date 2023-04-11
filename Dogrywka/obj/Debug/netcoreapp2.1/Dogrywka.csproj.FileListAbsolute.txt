@@ -1,0 +1,17 @@
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\Dogrywka.deps.json
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\Dogrywka.runtimeconfig.json
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\Dogrywka.runtimeconfig.dev.json
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\Dogrywka.dll
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\obj\Debug\netcoreapp2.1\Dogrywka.csprojAssemblyReference.cache
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\obj\Debug\netcoreapp2.1\Dogrywka.csproj.CoreCompileInputs.cache
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\obj\Debug\netcoreapp2.1\Dogrywka.AssemblyInfoInputs.cache
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\obj\Debug\netcoreapp2.1\Dogrywka.AssemblyInfo.cs
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\selenium-manager\linux\selenium-manager
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\selenium-manager\macos\selenium-manager
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\selenium-manager\windows\selenium-manager.exe
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\bin\Debug\netcoreapp2.1\Dogrywka.pdb
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\obj\Debug\netcoreapp2.1\Dogrywka.dll
+C:\Users\akasz\source\repos\Dogrywka\Dogrywka\obj\Debug\netcoreapp2.1\Dogrywka.pdb
